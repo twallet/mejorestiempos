@@ -12,10 +12,13 @@ El programa empieza con un autodiagnostico _**(Google Form),**_ llamado _Radar d
 
 ## Automatización Avances
 Al manejar una gran cantidad de personas (picos de 150 personas haciendo el programa a la vez, 2.600 participantes en total), tuvé que automatizar varias tareas con _**Google App Script, API y Webhooks de Teachable**_:  
-- Generar un dashboard de monitoreo para seguir indicadores y detectar eventuales problemas técnicos.
+- Actualizar un dashboard de monitoreo para seguir indicadores y detectar eventuales problemas técnicos.
+![Dashboard](/images/DashboardMT.jpg)  
+- Enviar un email diario de resumen de indicadores.
 - Recopilación periódica de comentarios en los foros para poder responder rápidamente (picos de 80 comentarios por día).
 - Emails personalizados con datos del Radar del Tiempo de la persona para "recuperarla" cuando pasan varias semanas sin entrar a la plataforma.
 - Actualización en tiempo real de planilla de avances por cliente.
+![SeguimientoCliente](/images/SeguimientoCliente.jpg) 
 
-![Dashboard](/images/DashboardMT.jpg)  
+
 ⌨️ [Código](https://github.com/twallet/mejorestiempos/tree/main/radar) 
