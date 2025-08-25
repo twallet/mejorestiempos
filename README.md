@@ -6,7 +6,7 @@ El Programa Mejores Tiempos es un programa de capacitación para personas y empr
 El programa empieza con un autodiagnostico _**(Google Form),**_ llamado _Radar del Tiempo_. Automaticé con _**Google App Script**_ la generación y el envío del radar por email.
 
 ![Radar del Tiempo](/images/RadarDelTiempo.png)  
-⌨️[Código](https://github.com/twallet/mejorestiempos/tree/main/radar) | ⌛ [Probarlo](https://forms.gle/LTG37hsMRkFhptKj6)
+⌨️ [Código](https://github.com/twallet/mejorestiempos/tree/main/radar) | ⌛ [Probarlo](https://forms.gle/LTG37hsMRkFhptKj6)
 
 ---
 
