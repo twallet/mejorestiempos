@@ -45,15 +45,15 @@ const ALL_LOGGED_COURSES_FIELDS = {
   EMAIL: 9,
   COURSE_ABV: 10, 
   STUDENT_LINK: 11, 
-  SURVEY_SHEET:12, //
+  SURVEY_SHEET:12, 
   SURVEY_SHEET_NAME:13,
   COURSE_ACCESS_LINK: 14
 };
 
 const ALL_LOGGED_COURSES = [
-  [2399254, 'Programa Mejores Tiempos', 'xxx', 50400016, 'xxx', 'ES', 'Radar MT', 'https://xxx/courses/mejores-tiempos/lectures/50400016', 'Next Steps Lab', 'xxxt@nextstepslab.com', 'MT', 'https://learn.nextstepslab.com/admin/users/', 'xxx', 'Survey MT', 'https://xxx/courses/enrolled/2399254'],
-  [2123861, 'Oficina do Tempo', 'xxx', 48566284, 'xxx', 'BR', 'Radar OdT', 'https://xxx/courses/oficina-do-tempo/lectures/48566284', 'Next Steps Lab', 'xxx@nextstepslab.com', 'ODT', 'https://xxx/admin/users/', 'xxx', 'Survey OdT', 'https://xxx/courses/enrolled/2123861'],
-  [920235, 'Taller del Tiempo', 'xxx', 43974014, 'xxx', 'ES', 'Radar TTa', 'https://xxx/courses/920235/lectures/43974014', 'Academia XXX', 'xxx@kleer.la', 'TTA', 'https://xxx/admin/users/', 'xxx', 'Survey TTa', 'https://xxx/courses/enrolled/920235']
+  [2399254, 'Programa Mejores Tiempos', 'xxx', 50400016, 'xxx', 'ES', 'Radar MT', 'https://xxx/courses/mejores-tiempos/lectures/50400016', 'XXX', 'xxxt@XXX', 'MT', 'https://xxx/admin/users/', 'xxx', 'Survey MT', 'https://xxx/courses/enrolled/2399254'],
+  [2123861, 'Oficina do Tempo', 'xxx', 48566284, 'xxx', 'BR', 'Radar OdT', 'https://xxx/courses/oficina-do-tempo/lectures/48566284', 'XXX', 'xxx@XXX', 'ODT', 'https://xxx/admin/users/', 'xxx', 'Survey OdT', 'https://xxx/courses/enrolled/2123861'],
+  [920235, 'Taller del Tiempo', 'xxx', 43974014, 'xxx', 'ES', 'Radar TTa', 'https://xxx/courses/920235/lectures/43974014', 'Academia XXX', 'xxx@XXX', 'TTA', 'https://xxx/admin/users/', 'xxx', 'Survey TTa', 'https://xxx/courses/enrolled/920235']
 ];
 
 const CONTROL_EMAIL = 'xxx@gmail.com';
